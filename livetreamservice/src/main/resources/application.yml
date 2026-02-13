@@ -1,0 +1,7 @@
+server:
+  port: 8084
+
+livekit:
+  url: https://livetream-7f2wlo6u.livekit.cloud
+  api-key: APIroUAKf3K9soB
+  api-secret: 6RscGpoNsTqpXzaixecf1IDU0y2eYt7fdeR1GVmuOFvA
